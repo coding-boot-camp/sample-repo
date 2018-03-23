@@ -1,0 +1,1 @@
+Example grading rubric for sample homework.
